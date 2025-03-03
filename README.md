@@ -1,2 +1,2 @@
 # PAG2025
-Materiały i zadania - Programowanie aplikacji geoinformacyjnych
+Materiały i zadania - Programowanie aplikacji geoinformacyjnych, część wykładowa
